@@ -11,7 +11,7 @@
     <encoding>UTF-8</encoding>
     <scala.version>2.10.5</scala.version>
     <scala.tools.version>2.10</scala.tools.version>
-    <spark.core.version>1.6.0</spark.core.version>
+    <spark.core.version>2.4.4</spark.core.version>
   </properties>
   <repositories>
     <repository>
